@@ -1,0 +1,24 @@
+{
+  "name": "youtube-offline-sync",
+  "version": "1.0.0",
+  "description": "Sync user's playlists with computer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funnieguy/youtube-offline-sync.git"
+  },
+  "author": "Joel Lim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/funnieguy/youtube-offline-sync/issues"
+  },
+  "homepage": "https://github.com/funnieguy/youtube-offline-sync#readme",
+  "dependencies": {
+    "argparse": "^1.0.9",
+    "request": "^2.79.0",
+    "ytdl-core": "^0.7.23"
+  }
+}
