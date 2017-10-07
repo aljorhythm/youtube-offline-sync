@@ -7,7 +7,7 @@
 ## config.js
 
 ``` javascript
-modules.export = {
+module.exports = {
   "API_KEY" : "AIzaSyCc_8l4x0sGnHDhh96o41CmXWxmbgNsOu8"
 }
 ```
